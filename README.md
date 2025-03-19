@@ -1,0 +1,2 @@
+# astro-connect
+Astrology Scripts
